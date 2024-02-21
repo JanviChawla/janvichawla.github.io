@@ -4,11 +4,11 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [],//[Component.PageTitle()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      LinkedIn: "https://linkedin.com/in/janvichawla",
+      Instagram: "https://instagram.com/janvichx"
     },
   }),
 }
@@ -22,16 +22,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Graph(),
+    // Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Backlinks(),
   ],
 }
 
@@ -39,11 +40,11 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }

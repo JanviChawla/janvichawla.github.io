@@ -44,7 +44,7 @@ ul,
   color: var(--darkgray);
   fill: var(--darkgray);
   overflow-wrap: anywhere;
-  hyphens: auto;
+  hyphens: false;
 }
 
 .math {
@@ -405,7 +405,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
+  line-height: 2rem;
 }
 
 .table-container {

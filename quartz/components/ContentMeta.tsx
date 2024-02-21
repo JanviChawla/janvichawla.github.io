@@ -41,8 +41,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   ContentMetadata.css = `
   .content-meta {
-    margin-top: 0;
     color: var(--gray);
+    font-family: var(--codeFont);
+    font-size: 13px;
   }
   `
   return ContentMetadata

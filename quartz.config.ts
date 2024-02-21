@@ -3,20 +3,18 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Janvi Chawla",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    baseUrl: "janvichawla.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Cormorant Garamond",
+        body: "Cormorant Garamond",
+        code: "Red Hat Mono",
       },
       colors: {
         lightMode: {
@@ -49,7 +47,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         // you can add 'git' here for last modified from Git
         // if you do rely on git for dates, ensure defaultDateType is 'modified'
-        priority: ["frontmatter", "filesystem"],
+        priority: ["git", "frontmatter", "filesystem"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),
