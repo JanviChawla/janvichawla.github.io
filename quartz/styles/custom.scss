@@ -1,5 +1,6 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 body {
-    font-size: 19px;
+    font-size: 18px;
 }

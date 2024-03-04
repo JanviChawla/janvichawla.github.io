@@ -5,7 +5,6 @@ tags:
   - writings
   - review
 ---
-
 I heard of the book in September 2016 through [Game Quitters](https://gamequitters.com/). Cam compiled a list of activities to pursue in place of video gaming; he recommended starting a reading habit with [Jeff Olson’s _The Slight Edge_](https://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463). I decided to finally take a step towards building this hobby in late February.
 
 The book is split into (1) How the Slight Edge Works and (2) Living the Slight Edge. _The Slight Edge_ told me what I already knew but didn’t necessarily believe or implement. With that in mind, here’s what I’ll be taking away:

@@ -4,7 +4,7 @@ description:
 date: 2024-02-20
 tags:
   - wonderings
-draft: false
+draft: true
 ---
 We've become so dependent on our phones, on being accessible to others all the time, that it's uncomfortable to go anywhere without a phone. Portable mini-computers used to be fun and delightful but it was possible to step away. Now as I walk through New York, I see bent necks and phones clutched in hands like crutches.
 

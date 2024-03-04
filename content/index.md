@@ -2,15 +2,15 @@
 title: Janvi Chawla
 date:
 ---
-Born in India, lived the American dream. Currently residing in NYC.
+Born in India, lived the American dream. Currently in New York City.
 
 Strategy consultant at the intersection of AI × Product × Healthcare with degrees from Georgia Tech (CS '16) and London Business School (MBA '23)
 
-Family comes first, the Oxford comma is not optional, and creation should offset consumption.
+Beliefs: Family first, offset consumption w/ creation, and ♡ the Oxford comma
 
-I consider myself a Renaissance woman:
-- music ~ dancing, production, anticipating my Spotify Wrapped
+I hope to be a Renaissance woman:
+- music ~ dancing, playlists, production, piano
 - fitness ~ F45, snowboarding
-- competitive and intellectual challenges ~ any game. My current obsession is solving NYT Tuesday crosswords.
+- competitive and intellectual challenges ~ games. Currently solving NYT Tuesday crosswords and optimizing my Rubiks cube solve time
 
-This is my memory palace for [[concepts]], [[tags/wonderings]], and old [[tags/writings]].
+This is my memory palace for [[concepts]], [[tags/wonderings]], and past [[tags/writings]].
