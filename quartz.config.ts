@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Cormorant Garamond",
-        body: "Cormorant Garamond",
+        body: "Adobe Garamond Pro",
         code: "Red Hat Mono",
       },
       colors: {

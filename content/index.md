@@ -1,5 +1,5 @@
 ---
-title: Janvi Chawla
+title: 🦋⃤♡⃤🌈⃤
 date:
 ---
 Born in India, lived the American dream. Currently in New York City.
@@ -14,3 +14,6 @@ I hope to be a Renaissance woman:
 - competitive and intellectual challenges ~ games. Currently solving NYT Tuesday crosswords and optimizing my Rubiks cube solve time
 
 This is my memory palace for [[concepts]], [[tags/wonderings]], and past [[tags/writings]].
+
+Cheers,\
+Janvi 𓆩ꨄ︎𓆪
