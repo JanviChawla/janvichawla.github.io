@@ -108,7 +108,7 @@ a {
 .page {
   @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 2rem;
     max-width: $pageWidth;
   }
 
@@ -159,7 +159,7 @@ a {
       @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
-        padding: 0;
+        padding: 1em;
         width: initial;
         margin-top: 2rem;
       }
@@ -291,7 +291,7 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: 2.2rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
@@ -303,7 +303,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.4rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -408,7 +408,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.8rem;
+  line-height: 2.3rem;
 }
 
 .table-container {

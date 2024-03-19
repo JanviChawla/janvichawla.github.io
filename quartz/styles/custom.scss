@@ -3,7 +3,7 @@
 
 
 body {
-    font-size: 17px;
+    font-size: 21px;
     letter-spacing: .15px;
 }
 
@@ -13,4 +13,8 @@ footer a {
 
 p.meta {
     font-family: var(--headerFont);
+}
+
+p.content-meta {
+    font-size: 15px;
 }
