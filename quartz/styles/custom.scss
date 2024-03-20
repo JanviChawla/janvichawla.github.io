@@ -1,9 +1,8 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-
 body {
-    font-size: 21px;
+    font-size: 19px;
     letter-spacing: .15px;
 }
 
@@ -16,5 +15,5 @@ p.meta {
 }
 
 p.content-meta {
-    font-size: 15px;
+    font-size: 14px;
 }
