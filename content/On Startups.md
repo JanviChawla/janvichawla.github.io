@@ -13,8 +13,7 @@ not good for
     -   private options
     -   founder/co-founder take home the pie, rest take nothing
 -   niche
-    - being a PM at a startup means you also play many other roles so you don't get to focus on a specific (e.g., PM can also mean account sales as opposed to becoming specific like "growth marketing PM")
-
+    - being a PM at a startup means you also play many other roles so you don't get to focus on one area (e.g., PM can also mean account sales as opposed to becoming specific like "growth marketing PM")
 
 good for
 -   pivot industry or role
