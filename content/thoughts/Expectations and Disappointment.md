@@ -2,7 +2,6 @@
 title: Expectations and Disappointment
 date: 2017-04-30
 tags:
-  - writings
   - musings
 ---
 Disappoint and regret are brothers. While regret is a feeling that is directed towards oneself, disappointment can be directed towards anyone and anything. It can be the result of a bad draw of cards or a test score you got back or when your best friend skipped your birthday party. Whatever it stems from, disappointment can lead to wallowing and can be biting, especially when directed at yourself. What’s interesting to know is that disappointment can be traced to one thing: expectations.

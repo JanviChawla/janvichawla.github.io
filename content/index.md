@@ -1,11 +1,12 @@
 ---
 title: 🦋⃤♡⃤🌈⃤
-date:
 ---
 Born in India, lived the American dream. Currently in New York City.
 
-Recreating a space for my thoughts -- \
-welcome to my memory palace for [[tags/wonderings]], [[concepts]], and older [[tags/writings]].
+Recreating a space for my [[thoughts/]] -- \
+welcome to my memory palace.
+
+![[palace1.jpeg]]
 
 Cheers,\
-Janvi 𓆩ꨄ︎𓆪
+Janvi

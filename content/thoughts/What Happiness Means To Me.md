@@ -2,7 +2,6 @@
 title: What Happiness Means To Me
 date: 2017-06-01
 tags:
-  - writings
   - musings
 ---
 

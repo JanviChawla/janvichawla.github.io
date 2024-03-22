@@ -2,7 +2,6 @@
 title: Life and Meaning
 date: 2017-12-19
 tags:
-  - writings
   - musings
 ---
 There is an important distinction between leading a life that means something and the meaning of life. The first is an opinionated determination of whether we matter and if our life is worth living. The second is identifying why we exist. The latter helps positively with the former.

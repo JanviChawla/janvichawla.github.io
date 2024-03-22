@@ -3,7 +3,7 @@ title: Nostalgia
 description: 
 date: 2024-03-20
 tags:
-  - wonderings
+  - musings
 draft: false
 ---
 It's trending. See Dua Lipa's *Future Nostalgia*, the cyclical nature of fashion bringing the '90s and '00s back, and the record-high sales of vinyls and cassettes since the 1970s. Here I present an examination of why I feel the way I feel, tied to aging out of relevance and reflecting on seemingly simpler times...

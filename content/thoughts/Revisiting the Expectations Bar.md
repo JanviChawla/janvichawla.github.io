@@ -2,7 +2,6 @@
 title: Revisiting the Expectations Bar
 date: 2017-08-15
 tags:
-  - writings
   - musings
 ---
 … to set it lower.

@@ -3,7 +3,7 @@ title: On Startups
 description: 
 date: 2024-03-04
 tags:
-  - wonderings
+  - notes
 draft: false
 ---
 In 2021 while at London Business School, I participated in INSEAD's Product Games, a hackathon for product managers. They provided our team a mentor who worked at Paypal at the time but had extensive experience working in startups. The following are my takeaways from a conversation with him that validated my reasons for not going to a startup amidst the increased jadedness against corporate life in the last decade.

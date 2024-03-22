@@ -2,7 +2,6 @@
 title: "Book Review: The Accidental Creative"
 date: 2017-06-21
 tags:
-  - writings
   - review
 ---
 During my last finals week in college, I was working out of an office in Georgia Tech’s Scheller College of Business. The office had a library full of books on leadership, entrepreneurship, business, etc. This is when Todd Henry’s _The Accidental Creative: How to be Brilliant at a Moment’s Notice_ first caught my eye. I finally got around to ordering and reading the book, a year later (better late than never).
