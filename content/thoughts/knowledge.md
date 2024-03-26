@@ -6,6 +6,8 @@ tags:
   - musings
 draft: false
 ---
+*Unedited*
+
 They say "curiosity killed the cat, but satisfaction brought it back." The worst part of adulthood is knowing how everything works. No longer do I wonder about the magic behind the trick because it was explained to me or I looked it up.
 
 When I walk by restaurants that are soft launching, my mind surfaces low survival rates of restaurants within their first year and already-thin margins. I then think about the family that's running it and what their life must be like. Was building this restaurant their big dream? Was it thrust upon them? Is this their only shot at happiness? Are they actually happy? Or this all a bigger burden than they expected? Will they survive? As a child, I'd think "wow, it's so cool they get to cook food. They achieved their dream of being a chef." Yeah, little Janvi, wait 'til you learn about careers viable in this economy.
@@ -23,6 +25,6 @@ Anyways, what this means is when I watch an old Chinese woman making 400 dumplin
 
 Now I'm questioning why most of the knowledge I have negatively affects the situations i'm wondering about. Knowledge removes hope because it surfaces information that clarifies the situation. Why can't it change to be more positive? Is it because we innately want to see the good in the world and in people, and then we're armed and jaded with facts about wars, deaths, tough times? News networks are certainly sensationalized, but these are all real events happening around the world or in my own city so they cannot be ignored.
 
-As a kid, you don't know these things or you're sheltered. You have yet to experience the full spectrum of human emotion, of all that could be. If i could not know the pain and suffering, would that be better? Ignorance is bliss, they say... but as Buddha realized, if you do not know the worst, how could you know the best? I took an Intro to Visual Arts class senior year of college, and a draft of my final project on dandelions was very gray because I was afraid of using black and white. My professor said: if I don't use the values on the ends of the spectrum, how was I going to be able to achieve the full potential of what I wanted to portray? To show light, I must have dark. To highlight with white, I need to fill in with black for contrast. Yin and yang.
+As a kid, you don't know these things or you're sheltered. You have yet to experience the full spectrum of human emotion, of all that could be. If I could not know the pain and suffering, would that be better? Ignorance is bliss, they say... but as Buddha realized, if you do not know the worst, how could you know the best? I took an Intro to Visual Arts class senior year of college, and a draft of my final project on dandelions was very gray because I was afraid of using black and white. My professor said: if I don't use the values on the ends of the spectrum, how was I going to be able to achieve the full potential of what I wanted to portray? To show light, I must have dark. To highlight with white, I need to fill in with black for contrast. Yin and yang.
 
 All this to say, I want to be mindful as I continue learning as an adult, to remain hopeful within reason. I don't need to get depressed every time I walk by a restaurant with no one in it.
