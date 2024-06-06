@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: 
     Component.Footer({
       links: {
-        "𓆩ꨄ︎𓆪": "/",
+        // "𓆩ꨄ︎𓆪": "/",
         "LinkedIn": "https://linkedin.com/in/janvichawla",
         Instagram: "https://instagram.com/janvichx",
         Quartz: "https://quartz.jzhao.xyz/"
@@ -19,16 +19,26 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    // Component.Breadcrumbs(),
+    // Component.Darkmode(),
+    Component.Breadcrumbs({
+      rootName: "𓆩ꨄ︎𓆪",
+      hideOnRoot: false,
+      showCurrentPage: false
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
     // Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
+    // Component.Breadcrumbs({
+    //   rootName: "𓆩ꨄ︎𓆪",
+    //   hideOnRoot: false,
+    //   showCurrentPage: false
+    // }),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.DesktopOnly(Component.TableOfContents()),
   ],
@@ -42,14 +52,24 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    // Component.Breadcrumbs(),
+    // Component.Darkmode(),
+    Component.Breadcrumbs({
+      rootName: "𓆩ꨄ︎𓆪",
+      hideOnRoot: false,
+      showCurrentPage: false
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta()],
   left: [
     // Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
-    Component.Darkmode(),
+    // Component.Darkmode(),
+    // Component.Breadcrumbs({
+    //   rootName: "𓆩ꨄ︎𓆪",
+    //   hideOnRoot: false,
+    //   showCurrentPage: false
+    // }),
     // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],

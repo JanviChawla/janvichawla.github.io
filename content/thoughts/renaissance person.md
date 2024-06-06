@@ -1,8 +1,8 @@
 ---
 title: 
 description: 
-date: ""
-tags: []
+date: 2024-03-31
+tags: 
 draft: true
 ---
 learning as an adult

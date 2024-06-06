@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Janvi Chawla",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: null,
     locale: "en-US",
     baseUrl: "janvichawla.com",
@@ -14,17 +14,17 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Cormorant Garamond",
-        body: "Adobe Garamond Pro",
+        header: "Cormorant Garamond", // Cormorant Garamond
+        body: "Adobe Garamond Pro", // Adobe Garamond Pro
         code: "Red Hat Mono",
       },
       colors: {
         lightMode: {
-          light: "#fff", // faf8f8
-          lightgray: "#eee", // e5e5e5
-          gray: "#bbb", // b8b8b8
-          darkgray: "#444", //4e4e4e
-          dark: "#222", // 2b2b2b
+          light: "#faf8f8", // faf8f8
+          lightgray: "#e5e5e5", // e5e5e5
+          gray: "#b8b8b8", // b8b8b8
+          darkgray: "#4e4e4e", //4e4e4e
+          dark: "#2b2b2b", // 2b2b2b
           secondary: "#558", //284b63
           tertiary: "#99d", //84a59d
           highlight: "rgba(219, 225, 249, 0.15)", // rgba(143, 159, 169, 0.15) 
