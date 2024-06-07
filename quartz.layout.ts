@@ -20,11 +20,12 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     // Component.Darkmode(),
-    Component.Breadcrumbs({
-      rootName: "𓆩ꨄ︎𓆪",
-      hideOnRoot: false,
-      showCurrentPage: false
-    }),
+    // Component.Breadcrumbs({
+    //   rootName: "Home", // 𓆩ꨄ︎𓆪
+    //   hideOnRoot: false,
+    //   showCurrentPage: false
+    // }),
+    Component.PageTitle(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -53,13 +54,15 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     // Component.Darkmode(),
-    Component.Breadcrumbs({
-      rootName: "𓆩ꨄ︎𓆪",
-      hideOnRoot: false,
-      showCurrentPage: false
-    }),
+    // Component.Breadcrumbs({
+    //   rootName: "Home",
+    //   hideOnRoot: false,
+    //   showCurrentPage: false
+    // }),
+    Component.PageTitle(),
     Component.ArticleTitle(),
-    Component.ContentMeta()],
+    Component.ContentMeta()
+  ],
   left: [
     // Component.PageTitle(),
     // Component.MobileOnly(Component.Spacer()),
