@@ -1,11 +1,11 @@
 ---
 title: Janvi Chawla
 ---
-Newly based in New York, I have 7+ years of  **machine learning × product × strategy** experience across roles at a big 4 consulting firm, big tech company, and healthcare tech startup, working with clients across industries.
+New York-based healthcare x machine learning x strategy consultant.
 
-I have an MBA from London Business School and got out from Georgia Tech with a BS in Computer Science summa cum laude.
+MBA, London Business School. BS summa cumma laude Computer Science, Georgia Tech.
 
-Personal interests include F45, snowboarding, music & dance, board games, and sometimes I write [[posts/]].
+The things that bring me joy: F45, snowboarding, music & dance, board games, and sharing my [thoughts](posts/).
 
 Cheers~
 

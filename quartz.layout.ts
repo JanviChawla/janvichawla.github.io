@@ -25,13 +25,13 @@ export const defaultContentPageLayout: PageLayout = {
     //   hideOnRoot: false,
     //   showCurrentPage: false
     // }),
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
-    // Component.PageTitle(),
+    Component.PageTitle(),
     // Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
     // Component.Darkmode(),
@@ -59,12 +59,12 @@ export const defaultListPageLayout: PageLayout = {
     //   hideOnRoot: false,
     //   showCurrentPage: false
     // }),
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.ArticleTitle(),
     Component.ContentMeta()
   ],
   left: [
-    // Component.PageTitle(),
+    Component.PageTitle(),
     // Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
     // Component.Darkmode(),

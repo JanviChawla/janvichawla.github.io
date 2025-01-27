@@ -4,9 +4,10 @@ description:
 date: 2024-03-26
 tags:
   - musings
+  - unedited
 draft: false
 ---
-*Unedited*
+*Update: I spoke to my therapist and this is just depression and anxiety.*
 
 They say "curiosity killed the cat, but satisfaction brought it back." The worst part of adulthood is knowing how everything works. No longer do I wonder about the magic behind the trick because it was explained to me or I looked it up.
 
