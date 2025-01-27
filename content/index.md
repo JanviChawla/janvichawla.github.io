@@ -1,11 +1,11 @@
 ---
 title: Janvi Chawla
 ---
-New York-based healthcare x machine learning x strategy consultant.
+NYC-based healthcare × machine learning × strategy consultant \
+& F45er / snowboarder / dancer / gamer / [thinker](posts/) / [stationer](http://insharika.com) 
 
-MBA, London Business School. BS summa cumma laude Computer Science, Georgia Tech.
-
-The things that bring me joy: F45, snowboarding, music & dance, board games, and sharing my [thoughts](posts/).
+MBA, London Business School \
+BS Computer Science, Georgia Tech *summa cum laude*
 
 Cheers~
 
