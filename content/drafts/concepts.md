@@ -3,7 +3,7 @@ title: Collectibles
 description: 
 date: 2024-02-21
 tags: 
-draft: false
+draft: true
 ---
 This is a placeholder for virtual museum items - a personal project for me to develop new skills and explore design.
 1. Key blade
