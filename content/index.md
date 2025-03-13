@@ -1,6 +1,5 @@
 ---
 title: Janvi Chawla
-tags: []
 ---
 NYC-based healthcare × machine learning × strategy consultant \
 & F45er / snowboarder / dancer / gamer / [thinker](thoughts/) / [stationer](http://insharika.com) 
