@@ -4,7 +4,6 @@ date: 2017-06-01
 tags:
   - musings
 ---
-
 I once had a conversation with a retired and enlightened Berkeley professor. He provided the following three pillars regarding happiness:
 
 1. If *x* happens, I am happy.

@@ -1,11 +1,13 @@
 ---
-title: sqWORDLES Monthly Leaderboard
+title: sqwordles
 description: 
 date: 2024-03-22
 tags:
-  - notes
-draft: true
+  - scribble
+draft: false
 ---
+*A hypothetical project, which no longer applies as they do now have Wordle leaderboards.*
+
 I want to create a rolling monthly leaderboard for my Wordle group chat. This will be updated as I figure out how to do it.
 1. Ask for consent from friends (**sqWORDLES**) to analyze messages
 2. Pull rolling 30 days of data from iMessage -- I only keep the last 30 days of messages so I don't have access to before then

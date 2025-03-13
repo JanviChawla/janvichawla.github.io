@@ -3,8 +3,7 @@ title: renaissance person
 description: 
 date: 2024-06-06
 tags:
-  - notes
-  - unedited
+  - scribble
 draft: false
 ---
 learning as an adult

@@ -1,10 +1,9 @@
 ---
-title: Knowledge is sadness
+title: knowledge is sadness
 description: 
 date: 2024-03-26
 tags:
   - musings
-  - unedited
 draft: false
 ---
 *Update: I spoke to my therapist and this is just depression and anxiety.*
