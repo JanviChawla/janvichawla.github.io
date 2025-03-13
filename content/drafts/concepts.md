@@ -1,6 +1,5 @@
 ---
 title: Collectibles
-description: 
 date: 2024-02-21
 tags: 
 draft: true

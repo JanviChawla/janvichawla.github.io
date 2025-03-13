@@ -1,10 +1,8 @@
 ---
 title: renaissance person
-description: 
 date: 2024-06-06
 tags:
   - scribble
-draft: false
 ---
 learning as an adult
 - not a lot of leeway to fail as there is in learning as a child

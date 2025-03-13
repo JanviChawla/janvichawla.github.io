@@ -1,10 +1,8 @@
 ---
 title: nostalgia
-description: 
 date: 2024-03-20
 tags:
   - musings
-draft: false
 ---
 Nostalgia itself is trending -- see Dua Lipa's *Future Nostalgia*, the cyclical nature of fashion bringing the '90s and '00s-core back into style, and the record-high sales of vinyls and cassettes since the 1970s. Here I present an examination of why I feel the way I feel, tied to aging out of relevance and reflecting on seemingly simpler times...
 

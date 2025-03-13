@@ -1,10 +1,8 @@
 ---
 title: essential
-description: 
 date: 2024-03-21
 tags:
   - scribble
-draft: false
 ---
 Covid-essential
 

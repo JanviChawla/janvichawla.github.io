@@ -1,10 +1,8 @@
 ---
 title: ever-evolving thoughts
-description: 
 date: 2025-03-12
 tags:
   - musings
-draft: false
 ---
 I write, but I am not a writer. I'm putting that on paper, more to tell myself that it is not my job. I do not make an income from writing, in the traditional sense. What I am is a thinker. I ponder, ruminate, chew on thoughts, and form entire chains of ideas that I would like to share, through writing.
 

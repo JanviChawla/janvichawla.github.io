@@ -1,10 +1,8 @@
 ---
 title: nosurf
-description: 
 date: 2024-02-20
 tags:
   - musings
-draft: false
 ---
 The expectation of being accessible all the time or dependence on phones to do simple things like know your way around the neighborhood makes it uncomfortable to go anywhere without a phone. Portable mini-computers were fun and delightful, but it was possible to step away and disconnect; arguably this separation made it that more enjoyable to enjoy reality and cyberspace. Now as I walk through New York or ride on the tube, I see bent necks and phones clutched in hands like crutches.
 

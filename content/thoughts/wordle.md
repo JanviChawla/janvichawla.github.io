@@ -1,10 +1,8 @@
 ---
 title: sqwordles
-description: 
 date: 2024-03-22
 tags:
   - scribble
-draft: false
 ---
 *A hypothetical project, which no longer applies as they do now have Wordle leaderboards.*
 

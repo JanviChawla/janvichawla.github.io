@@ -1,6 +1,5 @@
 ---
 title: Lessons from my Work Abroad 2016
-description: 
 date: 2023-01-18
 tags:
   - guide
