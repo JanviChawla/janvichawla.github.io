@@ -2,7 +2,7 @@
 title: love and lonely
 date: 2025-03-13
 tags:
-  - scribble
+  - musings
 ---
 I'm alone, but I don't need a partner. I need a bus buddy. Think of everyone you know, getting on a school bus - who will sit next to you? Who has you as their #1 choice? Who will you sit next to?
 
