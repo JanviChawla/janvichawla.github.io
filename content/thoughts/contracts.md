@@ -13,10 +13,12 @@ at level 1, your energy signs a contract that you live a perfect live
 * no pain
 * no suffering
 * everything is perfect and you are spoonfed
+
 you go down as assume the life given this contract\
 when you die naturally you come back up\
-at level 2, things get marginally harder.\
-as you can imagine, at level 124912048, someone's life can indeed be relatively more difficult than someone at level 112323. That person may have a crackhead mother in africa whiile you are a middle class immigrant to a part of america that works as a meritocracy and enables you to progres
+at level 2, things get marginally harder.
+
+as you can imagine, at level 124912048, someone's life can indeed be relatively more difficult than someone at level 112323. That person may have a crackhead mother in africa with seven subkungs whiile you are a middle class immigrant to a part of america that works as a meritocracy and enables you to progress
 
 2 questions
 * what cards do you think you were dealt? on a scale of 1 to 10
