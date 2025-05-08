@@ -3,7 +3,7 @@
 
 body {
     font-size: 17px;
-    letter-spacing: .1px; 
+    letter-spacing: .2px; 
     margin-bottom: 4em;
 }
 
@@ -36,4 +36,15 @@ img {
     /* Calculates 50% of the element's width, and moves it by that */ 
     /* amount across the X-axis to the left */
     transform: translateX(-50%);
+}
+
+div#HCB_comment_box, input, textarea, button  {
+    font-family: var(--codeFont) !important;
+    font-size: 16px;
+    padding: 8px;
+    border-color: var(--gray)
+}
+
+div#HCB_comment_box img {
+    display: none;
 }

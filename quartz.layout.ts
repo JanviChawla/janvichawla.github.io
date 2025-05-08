@@ -16,6 +16,7 @@ export const sharedPageComponents: SharedLayout = {
         // "𓆩ꨄ︎𓆪": "/",
         "LinkedIn": "https://linkedin.com/in/janvichawla",
         Instagram: "https://instagram.com/janvichx",
+        Spotify: "https://open.spotify.com/user/1249416457?si=1c33a6c3e6e24b62",
         Quartz: "https://quartz.jzhao.xyz/"
       },
     }),
