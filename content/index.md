@@ -11,4 +11,4 @@ Cheers~
 
 🦋⃤♡⃤🌈⃤
 
-[Leave a note?](/guestbook)
+[Leave a note?](/guestbook.html)

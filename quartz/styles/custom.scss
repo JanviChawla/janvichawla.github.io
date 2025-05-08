@@ -3,7 +3,7 @@
 
 body {
     font-size: 17px;
-    letter-spacing: .2px; 
+    letter-spacing: -.2px; 
     margin-bottom: 4em;
 }
 
@@ -17,7 +17,7 @@ p.meta {
 
 p.content-meta {
     font-size: 14px;
-    color: var(--gray);
+    color: var(--lightgray);
 }
 
 h1.page-title {
@@ -40,9 +40,9 @@ img {
 
 div#HCB_comment_box, input, textarea, button  {
     font-family: var(--codeFont) !important;
-    font-size: 16px;
+    font-size: 14px;
     padding: 8px;
-    border-color: var(--gray)
+    border-color: var(--light)
 }
 
 div#HCB_comment_box img {
