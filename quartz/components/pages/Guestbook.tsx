@@ -9,10 +9,21 @@ function Guestbook({ cfg }: QuartzComponentProps) {
       <div id="HCB_comment_box">
         <a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...
       </div>
+      {/* Inline script using dangerouslySetInnerHTML */}
       <script
         dangerouslySetInnerHTML={{
           __html: `
-            if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24g0RbboF6NuuPuJZ%2Fd%2FYXC."+"&opts=18199&num=10&ts=1746811769747");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); ]
+            if (!window.hcb_user) { hcb_user = {}; }
+            (function() {
+              var s = document.createElement("script"),
+              l = hcb_user.PAGE || ("" + window.location).replace(/'/g, "%27"),
+              h = "https://www.htmlcommentbox.com";
+              s.setAttribute("type", "text/javascript");
+              s.setAttribute("src", h + "/jread?page=" + encodeURIComponent(l).replace("+", "%2B") +
+                "&mod=%241%24wq1rdBcg%24g0RbboF6NuuPuJZ%2Fd%2FYXC." +
+                "&opts=18199&num=10&ts=1746811769747");
+              if (typeof s !== "undefined") document.getElementsByTagName("head")[0].appendChild(s);
+            })();
           `,
         }}
       />
@@ -21,4 +32,3 @@ function Guestbook({ cfg }: QuartzComponentProps) {
 }
 
 export default (() => Guestbook) satisfies QuartzComponentConstructor
-
