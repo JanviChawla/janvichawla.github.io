@@ -1,5 +1,5 @@
 ---
-title: Contracts
+title: contracts
 date: 2025-03-15
 tags:
   - musings

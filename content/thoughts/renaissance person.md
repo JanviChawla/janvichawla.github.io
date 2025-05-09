@@ -1,5 +1,5 @@
 ---
-title: Renaissance Person
+title: renaissance person
 date: 2024-06-06
 tags:
   - musings

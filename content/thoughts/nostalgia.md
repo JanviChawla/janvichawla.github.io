@@ -1,5 +1,5 @@
 ---
-title: Nostalgia
+title: nostalgia
 date: 2024-03-20
 tags:
   - musings

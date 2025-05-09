@@ -1,10 +1,10 @@
 ---
-title: Reintegrating the Lost
+title: shadow work
 date: 2024-03-31
 tags:
   - musings
 ---
-Shadow work goes a bit deeper than just thinking about our thinking. Metacognition is one thing, but the real challenge in shadow work lies in the delicate process of bringing those rejected parts of ourselves back into the fold. Figuring out _why_ we pushed those aspects away in the first place, and more importantly, understanding _why_ they shouldn't remain banished, is a far more intricate task than simple self-reflection.
+Shadow work goes a bit deeper than just thinking about our thinking. Metacognition is one thing, but the real challenge in shadow work lies in the delicate process of bringing those rejected parts of ourselves back into the fold. Figuring out why we pushed those aspects away in the first place, and more importantly, understanding why they shouldn't remain banished, is a far more intricate task than simple self-reflection.
 
 For me, that rejected part was my thirteen-year-old self. A version of me I had, over time, shamed into a quiet corner of my mind. Instead of discarding the insecurities and insults that others projected onto me, I somehow internalized them, like applying sticky labels all over that younger self. With each passing year, I intentionally tried to outrun previous versions of myself as I grew, shaking off some of those labels, though many stubbornly clung on. Eventually, I had created enough distance that I rarely encountered direct reminders.
 

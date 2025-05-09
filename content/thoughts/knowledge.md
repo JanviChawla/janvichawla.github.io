@@ -1,5 +1,5 @@
 ---
-title: Unsettling Wisdom of Adulthood
+title: unsettling wisdom of adulthood
 date: 2024-03-26
 tags:
   - musings
