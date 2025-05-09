@@ -1,9 +1,11 @@
 ---
-title: "Contracts: where we begin..."
+title: Contracts
 date: 2025-03-15
 tags:
   - musings
 ---
+Where we begin...
+
 Imagine energies, somewhere beyond our comprehension – not quite what we call heaven – starting at level one. At this initial stage, your energy signs a fascinating contract: a life of seamless perfection. No pain, no suffering, everything handed to you on a silver platter. Think of it like a video game character descending into a pre-programmed existence. If you meet an untimely end, you're forced to replay the level. But a natural passing allows you to ascend – now at level two. The terms and conditions, as you might expect, become incrementally more challenging with each level. It's not hard to imagine that life at level 98,234 would present significantly greater hurdles than someone's journey at level 2,762.
 
 It's almost eerie how these hypothetical "contracts" seem to play out in the real world. I remember at the McDonald Conference for Leaders of Character back in 2016, our group of university students was posed a compelling question towards the end of the opening plenary:

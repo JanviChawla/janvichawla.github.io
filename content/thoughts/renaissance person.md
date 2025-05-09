@@ -1,5 +1,5 @@
 ---
-title: Renaissance Person, or Learning as an Adult
+title: Renaissance Person
 date: 2024-06-06
 tags:
   - musings

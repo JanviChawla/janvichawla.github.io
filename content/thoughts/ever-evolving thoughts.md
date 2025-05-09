@@ -1,5 +1,5 @@
 ---
-title: Ever-evolving thoughts
+title: ever-evolving thoughts
 date: 2025-03-12
 tags:
   - musings

@@ -1,5 +1,5 @@
 ---
-title: Love & Lonely
+title: love and lonely
 date: 2025-03-13
 tags:
   - musings

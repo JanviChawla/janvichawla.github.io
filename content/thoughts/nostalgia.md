@@ -1,5 +1,5 @@
 ---
-title: Waves of Nostalgia
+title: Nostalgia
 date: 2024-03-20
 tags:
   - musings

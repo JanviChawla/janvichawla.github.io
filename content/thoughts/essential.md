@@ -1,5 +1,5 @@
 ---
-title: essential
+title: Essential
 date: 2024-03-21
 tags:
   - musings
