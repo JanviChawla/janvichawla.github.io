@@ -4,21 +4,20 @@ date: 2017-08-15
 tags:
   - musings
 ---
-… to set it lower.
+... to set it lower.
 
-My alarm goes off at 7 and I wake up already disappointed that I haven’t already had my coffee and meditated and written a blog post and practiced yoga. It sets the tone for the rest of my day every day. How do I stop holding myself to these standards without feeling like I’m compromising on my best or ideal self?
+My alarm goes off at 7 am, and I often wake up already feeling a little disappointed that I haven't magically had my coffee, meditated, written a blog post, and done yoga. It kind of sets a slightly bummed-out tone for the rest of the day. How do I stop holding myself to these crazy standards without feeling like I'm giving up on being my best or ideal self?
 
 ---
 
-A major epiphany I had today was that nothing really matters. Yes, people have written about this before. Yes, it’s in our textbooks. The sun will explode and kill us, or global warming will do it first, or some volcano will freakishly erupt and take us all like Pompeii.
+I had a bit of a lightbulb moment today: nothing _really_ matters, in the grand scheme of things. Yes, I know, people have written about this. It's even in textbooks. The sun will eventually explode and take us all out, or global warming will get there first, or some rogue volcano will Pompeii us.
 
-But at the end of the day, whether I post today or not, no one cares. What time I woke up as long as it doesn’t interfere with other people’s business – no one cares. What I ate for breakfast, whether I worked out, whether I meditated, whether I read a book or listened to a podcast – literally no one cares if I did or did not do any of these things. They don’t affect anyone but me – and that’s perhaps what makes it that much more disappointing when I don’t do them. It’s the concept of discipline, willpower, the ability to rely on oneself.
+But honestly, whether I post something online today or not, no one's going to lose sleep over it. What time I wake up, as long as it doesn't mess with anyone else's schedule – doesn't matter to anyone but me. What I ate for breakfast, whether I worked out, meditated, read a book, or listened to a podcast – literally no one else cares if I did or didn't do any of those things. They only affect me, which maybe makes it even _more_ disappointing when I skip them. It all comes down to discipline, willpower, that feeling of being able to rely on yourself.
 
-I carve my life. I could watch TV every evening after work for the rest of my life. Hell, I could just stop working. “No one” really cares. Sure, my parents care. My friends might care. But in the long run, it doesn’t matter. And that’s kind of the beauty of it? Why not make this life on earth what you want it to be? Why not make it as comfortable or uncomfortable as you want? We have to be here – God presents us with challenges that we are capable of taking on. Every day is a choice.
+I'm the one who's carving out my life. I could watch TV every evening after work for the rest of my days. Heck, I could just quit my job. "No one" would _really_ care. Sure, my parents might care. My friends too. But in the long run? It doesn't actually matter. And there's a certain beauty in that, right? Why not make this life on earth what you actually _want_ it to be? Why not make it as comfortable or uncomfortable as you choose? We're here, for now. I believe that if there is a God, they present us with challenges that we are capable of taking on. Every day is a choice.
 
-Anyways, the point is – nothing matters. I have previously written about ~~[[Expectations and Disappointment]]~~. I abstained from positioning myself in favor of the fact that setting your expectations too high can in fact lead to disappointment. However, after experiencing a few more months of life ~~and re-watching an [oldie but a goodie](https://www.youtube.com/watch?v=RljdJzA1nhk)~~, I recognize now my stance has to be that low expectations are in fact the key.
+Anyway, the point is – nothing truly matters. I've written before about [[Expectations and Disappointment]]. I kind of sat on the fence, acknowledging that setting your expectations too high can definitely lead to disappointment. But after a few more months of living and reflecting, I'm starting to think that low expectations might actually be the key.
 
-I know the reason I didn’t want to admit it before is because it is hard for me to lower my expectations. It is hard for me to rid myself completely of expectations. As a sometimes optimist, I set the bar high in most situations. As a sometimes pessimist, I let my expectations sink to the point that it cripples my courage to try new things. It’s hard for me to find this paradise of a middle ground where I set low expectations and thus I am satisfied with whatever happens.
+I think the reason I was hesitant to admit that before is because it's hard for me to _lower_ my expectations. It's hard to completely get rid of them. As a sometimes-optimist, I tend to set the bar pretty high in most situations. As a sometimes-pessimist, I let my expectations sink so low that it paralyzes me and kills my courage to try new things. Finding that sweet spot, that middle ground where I set low expectations and am therefore happy with whatever happens, feels like a real challenge.
 
-Striking a balance between what is low, high, and realistic may be key, and this mindset I’ll probably be working towards for quite a while.
-
+Finding a balance between what's low, what's high, and what's actually realistic might be the key, and I'm guessing that's a mindset I'll be working on for a while.

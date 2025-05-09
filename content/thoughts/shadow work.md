@@ -1,23 +1,23 @@
 ---
-title: shadow work
+title: Reintegrating the Lost
 date: 2024-03-31
 tags:
   - musings
 ---
-Shadow work is a bit more complex than metacognition. The real challenge in it is reintegrating rejected parts of the self. Figuring out why those parts are being rejected, and why they shouldn't be is a lot more difficult than simple self reflection.
+Shadow work goes a bit deeper than just thinking about our thinking. Metacognition is one thing, but the real challenge in shadow work lies in the delicate process of bringing those rejected parts of ourselves back into the fold. Figuring out _why_ we pushed those aspects away in the first place, and more importantly, understanding _why_ they shouldn't remain banished, is a far more intricate task than simple self-reflection.
 
-It was my thirteen year old self. A self I had shamed into the corner of my mind, applying all the stickers of insecurities and insults that others gave to me instead of casting them away. With each year, I intentionally put distance as quickly as possible between versions of me as I grew, shaking off stickers though many still clung tightly. With enough time, I had gone far enough away that I wouldn't be reminded.
+For me, that rejected part was my thirteen-year-old self. A version of me I had, over time, shamed into a quiet corner of my mind. Instead of discarding the insecurities and insults that others projected onto me, I somehow internalized them, like applying sticky labels all over that younger self. With each passing year, I intentionally tried to outrun previous versions of myself as I grew, shaking off some of those labels, though many stubbornly clung on. Eventually, I had created enough distance that I rarely encountered direct reminders.
 
-But you know, she never left. She was still there, in the corner where she'd been relegated. Anytime I saw a reflection of her in someone I met, some mannerism or behavior, it brought up a wall.
+But the truth is, she never really left. She was always there, tucked away in that mental corner. And whenever I caught a glimpse of her reflected in someone new I met – a certain mannerism, a familiar behavior – an immediate wall would go up.
 
-Projection.
+Projection, plain and simple.
 
-Growth was but an illusion.
+It became clear that my so-called "growth" had been, in some ways, an illusion, a superficial distancing rather than true integration.
 
-In January, I reached out. I had to face her, be the adult that hugged her and supported her, and accepted her for everything she was and wasn't. Her quirks and awkwardness. Her potential and stubbornness. Her talents and shortcomings. I had to be there for me because no one else was going to. The time had long passed, and casting her away was a temporary state, with an inevitable ending if I were to continue to progress in self-actualization.
+This past January, I decided it was time to reach out. I had to finally face her, to be the adult version of myself that could offer a hug and unwavering support, accepting her fully – for everything she was and everything she wasn't. Her quirks and awkwardness. Her untapped potential and inherent stubbornness. Her talents and her shortcomings. I realized I had to be there for that younger me because no one else could truly fill that void. The time for avoidance had long passed, and continuing to cast her away was merely a temporary fix with an inevitable reckoning if I truly wanted to progress towards self-actualization.
 
-We embraced and I showed her what she'd achieved, the friends she'd made, the apartment she gets in New York, the trips she goes on, the new things she tries, crazy life experiences and precious time with family and friends.
+So, we embraced. And in that embrace, I showed her what she had gone on to achieve: the genuine friendships she had forged, the exciting prospect of an apartment in New York, the adventures she had embarked on, the new experiences she had embraced, the crazy, memorable moments, and the precious time spent with family and friends.
 
-What do you wish you could say to your younger self?
+It makes me wonder: what do you wish you could say to your own younger self?
 
 ![[notetoself.png|400]]

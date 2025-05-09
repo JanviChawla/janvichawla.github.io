@@ -1,25 +1,17 @@
 ---
-title: renaissance person
+title: Renaissance Person, or Learning as an Adult
 date: 2024-06-06
 tags:
-  - scribble
+  - musings
 ---
-learning as an adult
-- not a lot of leeway to fail as there is in learning as a child
-- pressure to show off our skill/learning which opens up to criticism potentially too early
+One of the more striking differences about learning as an adult, as opposed to the relatively forgiving landscape of childhood, is the perceived lack of room for error. There's often this underlying pressure to immediately demonstrate competence, to "show off" our newfound skills, which can unfortunately lead to the potential for criticism arriving a bit too prematurely.
 
-Taught myself how to solve a rubik's cube after years of thinking it was an "elite" achievement. one of the best things i've done as an adult is choosing to learn snowboarding in 2020. most of my friends are snowboarders and it was the best way to spend time outside in the pandemic/quarantine world. what beauty in the mountains, and what accomplishment in getting down the mountain. after 3-4 seasons, i'm more in love with it than ever.
+It's funny the mental hurdles we create for ourselves. For years, I genuinely believed solving a Rubik's Cube was some kind of elite intellectual feat. Finally taking the time to learn how to do it myself was surprisingly rewarding. On a larger scale, one of the best decisions I've made as an adult was diving into snowboarding back in 2020. With most of my friends already on the slopes, it became the perfect way to spend time outdoors in that strange pandemic/quarantine world. There's an undeniable beauty in the mountains, and a real sense of accomplishment in navigating your way down. Now, three or four seasons in, my love for it has only deepened.
 
-can't do anything for the sake of doing it anymore
-sitting down with a coloring book and doing it for yourself without telling anyone about it -
-who cares that you do it
-if it's meditative to you then do it
-why do we suddenly need to be good at everything we're doing
-it's okay to be bad at something and still enjoy the process
+Something shifts as we get older, though. That ability to simply _do_ something for the pure joy of it seems to wane. Think about just sitting down with a coloring book, lost in the process, without any need to document or share it. Who genuinely cares that you're coloring? If it brings you a sense of calm or meditation, then that's reason enough. Why this sudden societal expectation that we must be proficient at every single thing we try? It's perfectly acceptable to be bad at something and still find genuine enjoyment in the process itself.
 
-it's okay to pursue a hobby and not monetize it
-capitalism has really pushed us to immediately go from "hey i have an idea to build this that sounds cool or might help people" to "how do i monetize it". i understand we need to feed ourselves but this thought process doesn't paint current society in the best light. is this really where we're at?
+This also extends to hobbies. It should be perfectly fine to pursue something you love without the immediate pressure to monetize it. Capitalism has really conditioned us to jump almost instantly from "hey, I have this cool idea that might be helpful or interesting" to "how can I turn this into a revenue stream?" While I understand the practical need to provide for ourselves, this ingrained thought process doesn't exactly paint our current society in the most idealistic light. Is this truly where our priorities lie?
 
-why is AI taking art jobs? let it take the tough things. automate the manual labor and the tough, tedious, dangerous tasks. allow humans to revel in learning the arts - painting, dancing, sculpting, writing. in pursuit of love, in pursuit of poetry, let us leave behind the need for slogging away for hours and hours. technology is meant to make our lives better, not chain us to our desks
+It makes you wonder about the current anxieties surrounding AI taking over "creative" jobs. Shouldn't we be directing AI towards the more arduous tasks? Automate the manual labor, the tough, tedious, and potentially dangerous jobs. This could free up humans to revel in learning and practicing the arts – painting, dancing, sculpting, writing – purely for the love of it, in pursuit of beauty and poetry. Technology was intended to enhance our lives, not chain us to our desks in a different guise.
 
-take us back to artisan crafts, one of one goods, custom packaging, and self-sustenance. i'm going to look into living in a commune with my friends in the future
+There's a growing appeal in returning to artisan crafts, unique one-of-a-kind goods, custom approaches, and even the idea of self-sufficiency. Personally, I've even started considering the possibility of living in a commune with friends down the line. There's a certain allure to a more interconnected and perhaps less relentlessly capitalistic way of life, one that might better nurture the diverse interests of a modern "renaissance person."

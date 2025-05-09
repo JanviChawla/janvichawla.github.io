@@ -14,3 +14,4 @@ This is a placeholder for virtual museum items - a personal project for me to de
 7. Temple
 8. Chess piece
 9. Staff
+10. tokyo mew mew ichigo
