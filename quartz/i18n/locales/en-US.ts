@@ -81,7 +81,7 @@ export default {
     },
     guestbook: {
       title: "Guestbook",
-      guestbook: "Leave a comment below~",
+      guestbook: "Leave a note below~ Please refresh if you don't see any comments.",
     },
   },
 } as const satisfies Translation
