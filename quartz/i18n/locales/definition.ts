@@ -79,5 +79,9 @@ export interface Translation {
       showingFirst: (variables: { count: number }) => string
       totalTags: (variables: { count: number }) => string
     }
+    guestbook: {
+      title: string
+      guestbook: string
+    }
   }
 }

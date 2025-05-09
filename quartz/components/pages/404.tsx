@@ -4,7 +4,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
 function NotFound({ cfg }: QuartzComponentProps) {
   return (
     <article class="popover-hint">
-      <h1>404</h1>
+      <h1 class="article-title">404</h1>
       <p>{i18n(cfg.locale).pages.error.notFound}</p>
     </article>
   )

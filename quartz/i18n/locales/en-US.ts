@@ -79,5 +79,9 @@ export default {
       showingFirst: ({ count }) => `Showing first ${count} tags.`,
       totalTags: ({ count }) => `Found ${count} total tags.`,
     },
+    guestbook: {
+      title: "Guestbook",
+      guestbook: "Leave a comment below~",
+    },
   },
 } as const satisfies Translation
