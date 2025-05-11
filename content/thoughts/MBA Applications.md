@@ -2,7 +2,7 @@
 title: Advice to MBA Applicants
 date: 2024-03-19
 tags:
-  - guide
+  - article
 ---
 As a former MBA applicant and a consulting firm-sponsored business school alumna, here are my notes:
 

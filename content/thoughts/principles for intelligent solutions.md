@@ -2,7 +2,7 @@
 title: Principles for Intelligent Solutions
 date: 2024-06-06
 tags:
-  - guide
+  - article
 ---
 **Build models with transparency and reliability**. Machine learning (ML) can be a black box and unfamiliar to many people. Demystifying the process and including leadership and end users every step of the way is the best way to get buy-in from clients. This creates advocates for the product through deepened understanding -- and people like things they can trust.
 

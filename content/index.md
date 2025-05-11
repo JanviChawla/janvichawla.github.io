@@ -12,3 +12,5 @@ Cheers~
 🦋⃤♡⃤🌈⃤
 
 [Sign the guestbook?](/guestbook)
+
+![[fernbank2.jpg]]![[fernbank1.jpg]]

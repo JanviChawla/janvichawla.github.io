@@ -2,7 +2,7 @@
 title: On Startups
 date: 2024-03-04
 tags:
-  - guide
+  - article
 ---
 Back in 2021, while at London Business School, I participated in INSEAD's Product Games, a hackathon geared towards product managers. Our team was fortunate enough to have a mentor, a seasoned professional who was at PayPal at the time but had a rich history in the startup world. I had a fascinating conversation with him, and his insights resonated deeply, particularly in validating my own reasons for not immediately jumping into a startup, even amidst the growing disillusionment with corporate life we've seen in the last decade.
 

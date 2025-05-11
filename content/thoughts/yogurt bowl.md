@@ -5,11 +5,11 @@ tags:
   - recipe
 ---
 - 8oz nonfat plain greek yogurt
-- 1 tablespoon peanut butter
-- 1 tablespoon chia seeds
+- 1 tbsp peanut butter
+- 1 tsp chia seeds
 - 3/4 cup frozen mixed berries, thawed
-- whipped cream
 - hefty honey drizzle
-- 3 trader joe’s milk chocolate peanut butter cups crushed on top
+- whipped cream
+- 2 trader joe’s milk chocolate peanut butter cups crushed on top
 
-610 calories: 30g protein (20%), 79g carbs (52%), 25g fat (37%)
+491 calories: 29g protein (23%), 49g carbs (40%), 21g fat (38%)
