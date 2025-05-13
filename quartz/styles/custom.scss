@@ -38,13 +38,36 @@ img {
     transform: translateX(-50%);
 }
 
+ul {
+    list-style: disc;
+}
+
 div#HCB_comment_box, input, textarea, button  {
     font-family: var(--codeFont) !important;
     font-size: 14px;
     padding: 8px;
-    border-color: var(--light)
+    border-color: var(--light);
 }
 
 div#HCB_comment_box img {
     display: none;
+}
+
+div#HCB_comment_box a, .hcb-like, .hcb-reply, .hcb-flag {
+    color: var(--secondary) !important;
+    
+    &:hover {
+        color: var(--tertiary) !important;
+        transition: color 0.2s ease;
+    }
+}
+
+div#HCB_comment_box .hcb-comment-body {
+    font-family: var(--bodyFont);
+    font-size: 17px;
+    letter-spacing: -.2px;
+}
+
+div#HCB_comment_box .likes::after {
+    content: " ദ്ദി´˘`)✧"
 }

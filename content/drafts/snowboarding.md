@@ -1,9 +1,8 @@
 ---
 title: A profession of love for snowboarding
-description: 
-date: ""
+date: 2025-05-11
 tags:
-  - example-tag
+  - musings
 draft: true
 ---
 /cue Simple Hit by Moksi
