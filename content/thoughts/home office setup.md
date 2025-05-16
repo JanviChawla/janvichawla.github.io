@@ -5,6 +5,10 @@ tags:
   - curated
 draft: false
 ---
+2025 update:
+![[wfh2025.jpeg]]
+
+-----------
 I’ve put links to my home office setup and added considerations if you want to build your own. (with help from Griffin Solimini!)
 
 _Note: Items are linked using Amazon Affiliate program._

@@ -5,7 +5,7 @@ tags:
   - curated
 draft: false
 ---
-Before anyone thinks this is an exercise in bragging or an attempt to push unnecessary purchases, let me preface this by saying I've been a minimalist for quite a while. Maybe it stems from a fear of making a bold decision and then regretting it (speaking from experience...), or maybe it's just my natural inclination. Regardless, I tend to own very few things, but the items I do have genuinely bring me a disproportionate amount of joy.
+Lest anyone think this is an attempt to push unnecessary purchases, let me preface this by saying I've been a minimalist for quite a while. Maybe it stems from a fear of making a bold decision and then regretting it (speaking from many experiences...), or maybe it's just my natural inclination. Regardless, I tend to own very few things, but the items I do have genuinely bring me a disproportionate amount of joy.
 
 The reason I wanted to document what I use boils down to these:
 1. **The Inquiries:** I do get asked about my go-to products in these areas, so this isn't just a vanity project. I sincerely hope this information helps you in your own decision-making process and in curating your ideal setup, makeup routine, etc.

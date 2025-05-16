@@ -13,3 +13,5 @@ tags:
 - 2 trader joe’s milk chocolate peanut butter cups crushed on top
 
 491 calories: 29g protein (23%), 49g carbs (40%), 21g fat (38%)
+
+![[yogurt bowl.jpeg]]

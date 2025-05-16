@@ -4,7 +4,7 @@ description:
 date: 2025-05-10
 tags:
   - recipe
-draft: false
+draft: true
 ---
 Cooking for one while jugging a full-time job means my priorities when it comes to meals are usually speed and health. The air fryer and microwave are the unsung heroes of my kitchen. While this grocery list might lean a little on the pricier side, it's packed with items that conveniently last well beyond a single week.
 

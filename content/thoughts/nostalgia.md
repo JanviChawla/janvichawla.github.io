@@ -4,7 +4,7 @@ date: 2024-03-20
 tags:
   - musings
 ---
-It's funny how nostalgia itself is having a moment, isn't it? Think about Dua Lipa's _Future Nostalgia_, the cyclical nature of fashion bringing back those '90s and '00s vibes, and the surprising resurgence of vinyl and cassette sales to levels we haven't seen since the '70s. For me, this all ties into a personal reflection on aging out of relevance, or at least the feeling of it, and looking back on what seem like simpler times.
+Nostalgia's having its moment. Think about Dua Lipa's _Future Nostalgia_, the cyclical nature of fashion bringing back those '90s and '00s vibes, and the surprising resurgence of vinyl and cassette sales to levels we haven't seen since the '70s. For me, this all ties into a personal reflection on aging out of relevance, or at least the feeling of it, and looking back on what seem like simpler times.
 
 Maybe this wave of nostalgia is hitting me because I'm feeling that inevitable slide into millennial obsolescence – no longer the prime target demographic for the latest and greatest. With technology advancing at such a breathtaking pace, I honestly wonder if I even _want_ to keep up. Suddenly, I have a newfound empathy for older generations who aren't tech-savvy; perhaps it's less about inability and more about a conscious choice. The more I see cyberspace evolve, the more I feel like we had something special in those early days of the web with the IndieWeb – a sense of authentic self and a drive for quality over sheer quantity.
 
