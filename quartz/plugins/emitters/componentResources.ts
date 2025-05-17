@@ -139,6 +139,26 @@ function addGlobalPageResources(
     `)
   }
 
+  // GoatCounter analytics - always included
+  componentResources.beforeDOMLoaded.push(`
+    window.goatcounter = window.goatcounter || {};
+    window.goatcounter.no_onload = true;
+
+    window.addEventListener('hashchange', function() {
+      if (window.goatcounter.count) {
+        window.goatcounter.count({
+          path: location.pathname + location.search + location.hash,
+        });
+      }
+    });
+  `);
+
+  staticResources.js.push({
+    src: "https://gc.zgo.at/count.js",
+    contentType: "external",
+    loadTime: "beforeDOMReady",
+  });
+
   let wsUrl = `ws://localhost:${ctx.argv.wsPort}`
 
   if (ctx.argv.remoteDevHost) {

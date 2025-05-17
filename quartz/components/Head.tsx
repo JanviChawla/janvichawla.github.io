@@ -43,55 +43,6 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
         <link href="https://fonts.cdnfonts.com/css/adobe-garamond-pro-2" rel="stylesheet" />
-        <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6fe009a3bb024addabe48538d436d6df"}'></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.goatcounter = window.goatcounter || {};
-              window.goatcounter.no_onload = true;
-
-              let lastPath = "";
-
-              function countPageviewWhenReady() {
-                const slug = document.body?.dataset?.slug;
-                const path = slug ? "/" + slug : location.pathname;
-                console.log("Tracking path:", path);
-
-                if (path === lastPath) return;
-
-                function tryCount(attempts = 10) {
-                  if (typeof window.goatcounter?.count === "function") {
-                    lastPath = path;
-                    window.goatcounter.count({ path });
-                    console.log("Count sent for:", path);
-                  } else if (attempts > 0) {
-                    setTimeout(() => tryCount(attempts - 1), 200);
-                  } else {
-                    console.warn("🐐 GoatCounter count() never became available.");
-                  }
-                }
-
-                tryCount();
-              }
-
-              if (document.readyState === "loading") {
-                document.addEventListener("DOMContentLoaded", countPageviewWhenReady);
-              } else {
-                countPageviewWhenReady();
-              }
-
-              if (window.addCleanup) {
-                window.addCleanup(() => {
-                  countPageviewWhenReady();
-                });
-              }
-            `,
-          }}
-        />
-
-
-
-
       </head>
     )
   }
