@@ -140,44 +140,13 @@ function addGlobalPageResources(
   }
 
   componentResources.beforeDOMLoaded.push(` 
-      window.goatcounter = {
-        no_onload: true
-      };
+    window.goatcounter = {no_onload: true}
 
-      const script = document.createElement("script");
-      script.src = "https://gc.zgo.at/count.js";
-      script.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
-      script.async = true;
-
-      script.addEventListener("load", () => {
-        const triggerCount = () => {
-          const path = location.pathname + location.search + location.hash;
-          console.log("GoatCounter count triggered:", path);
-          if (window.goatcounter?.count) {
-            window.goatcounter.count({ path });
-          } else {
-            console.warn("GoatCounter not ready, retrying...");
-            setTimeout(triggerCount, 100); // retry after 100ms
-          }
-        };
-
-        // Initial page load
-        triggerCount();
-
-        // Listen to hash changes
-        document.addEventListener("hashchange", () => {
-          console.log("hashchange event fired");
-          triggerCount();
-        });
-
-        // Listen to SPA nav events
-        document.addEventListener("nav", () => {
-          console.log("nav event fired");
-          triggerCount();
-        });
-      });
-
-      document.head.appendChild(script);
+    window.addEventListener('hashchange', function(e) {
+        window.goatcounter.count({
+            path: location.pathname + location.search + location.hash,
+        })
+    })
 
   `);
 

@@ -43,6 +43,8 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
         <link href="https://fonts.cdnfonts.com/css/adobe-garamond-pro-2" rel="stylesheet" />
+        <script data-goatcounter="https://janvi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
       </head>
     )
   }
