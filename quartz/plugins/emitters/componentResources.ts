@@ -139,25 +139,31 @@ function addGlobalPageResources(
     `)
   }
 
-  // GoatCounter analytics - always included
   componentResources.beforeDOMLoaded.push(`
-    window.goatcounter = window.goatcounter || {};
-    window.goatcounter.no_onload = true;
+    // Prevent auto pageview
+    window.goatcounter = { no_onload: true };
 
-    window.addEventListener('hashchange', function() {
-      if (window.goatcounter.count) {
-        window.goatcounter.count({
+    const script = document.createElement("script");
+    script.src = "https://gc.zgo.at/count.js";
+    script.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
+    script.async = true;
+
+    script.addEventListener("load", () => {
+      const countPageview = () => {
+        window.goatcounter?.count?.({
           path: location.pathname + location.search + location.hash,
         });
-      }
+      };
+
+      countPageview();
+
+      document.addEventListener("hashchange", countPageview);
+      document.addEventListener("nav", countPageview); // Quartz SPA support
     });
+
+    document.head.appendChild(script);
   `);
 
-  staticResources.js.push({
-    src: "https://gc.zgo.at/count.js",
-    contentType: "external",
-    loadTime: "beforeDOMReady",
-  });
 
   let wsUrl = `ws://localhost:${ctx.argv.wsPort}`
 
