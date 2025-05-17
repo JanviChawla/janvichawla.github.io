@@ -128,7 +128,7 @@ function addGlobalPageResources(
     `)
   }
 
- componentResources.afterDOMLoaded.push(`
+  componentResources.afterDOMLoaded.push(`
     window.goatcounter = { no_onload: true };
 
     const goatScript = document.createElement("script");
@@ -136,15 +136,64 @@ function addGlobalPageResources(
     goatScript.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
     goatScript.async = true;
 
+    function onGoatCounterLoad(callback) {
+      if (typeof window.goatcounter !== 'undefined' && typeof window.goatcounter.count === 'function') {
+        callback();
+      } else {
+        setTimeout(() => onGoatCounterLoad(callback), 100);
+      }
+    }
+
     goatScript.onload = () => {
-      window.goatcounter.count();
+      console.log("[GoatCounter] Script loaded.");
+
+      let lastTrackedPath = null;
+
+      function trackPageview() {
+        const currentPath = location.pathname;
+        const currentReferrer = document.referrer || "no-referrer";
+        const currentOrigin = location.origin;
+
+        console.log("[GoatCounter] trackPageview called.");
+        console.log("  Path:", currentPath);
+        console.log("  Referrer:", currentReferrer);
+        console.log("  Origin:", currentOrigin);
+
+        if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+          if (currentPath === lastTrackedPath) {
+            console.log("[GoatCounter] Same path as last tracked, skipping count.");
+            return;
+          }
+          lastTrackedPath = currentPath;
+
+          window.goatcounter.count({
+            path: currentPath,
+            referrer: currentReferrer,
+          });
+
+          console.log("[GoatCounter] Counted pageview for path:", currentPath);
+        } else {
+          console.warn("[GoatCounter] count() function not available yet.");
+        }
+      }
+
+      // Track initial page load
+      trackPageview();
+
+      // Track SPA nav events
       document.addEventListener("nav", () => {
-        window.goatcounter.count();
+        console.log("[GoatCounter] 'nav' event detected.");
+        trackPageview();
       });
+    };
+
+    goatScript.onerror = () => {
+      console.error("[GoatCounter] Failed to load GoatCounter script.");
     };
 
     document.head.appendChild(goatScript);
   `);
+
 
 
   if (cfg.enableSPA) {
