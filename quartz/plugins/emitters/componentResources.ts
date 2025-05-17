@@ -128,6 +128,41 @@ function addGlobalPageResources(
     `)
   }
 
+  componentResources.afterDOMLoaded.push(`
+    window.goatcounter = { no_onload: true };
+
+    const goatScript = document.createElement("script");
+    goatScript.src = "//gc.zgo.at/count.js";
+    goatScript.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
+    goatScript.async = true;
+    document.head.appendChild(goatScript);
+
+    function onGoatCounterLoad(callback) {
+      if (typeof window.goatcounter !== 'undefined' && typeof window.goatcounter.count === 'function') {
+        callback();
+      } else {
+        setTimeout(() => onGoatCounterLoad(callback), 100);
+      }
+    }
+
+    function trackPageview() {
+      onGoatCounterLoad(() => {
+        window.goatcounter.count({
+          path: location.pathname + location.search + location.hash
+        });
+      });
+    }
+
+    // Track initial page load
+    trackPageview();
+
+    // Track subsequent SPA navigations
+    document.addEventListener("nav", () => {
+      trackPageview();
+    });
+  `);
+
+
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {
@@ -138,48 +173,6 @@ function addGlobalPageResources(
       document.dispatchEvent(event)
     `)
   }
-
-  componentResources.beforeDOMLoaded.push(` 
-      window.goatcounter = {
-        no_onload: true
-      };
-
-      const script = document.createElement("script");
-      script.src = "https://gc.zgo.at/count.js";
-      script.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
-      script.async = true;
-
-      script.addEventListener("load", () => {
-        const triggerCount = () => {
-          const path = location.pathname + location.search + location.hash;
-          console.log("GoatCounter count triggered:", path);
-          if (window.goatcounter?.count) {
-            window.goatcounter.count({ path });
-          } else {
-            console.warn("GoatCounter not ready, retrying...");
-            setTimeout(triggerCount, 100); // retry after 100ms
-          }
-        };
-
-        // Initial page load
-        triggerCount();
-
-        // Listen to hash changes
-        document.addEventListener("hashchange", () => {
-          console.log("hashchange event fired");
-          triggerCount();
-        });
-
-        // Listen to SPA nav events
-        document.addEventListener("nav", () => {
-          console.log("nav event fired");
-          triggerCount();
-        });
-      });
-
-      document.head.appendChild(script);
-
-  `);
 
   let wsUrl = `ws://localhost:${ctx.argv.wsPort}`
 
