@@ -131,13 +131,28 @@ function addGlobalPageResources(
   componentResources.afterDOMLoaded.push(`
     if (!window.goatcounter) {
       window.goatcounter = { no_onload: true };
+      
       const goatScript = document.createElement("script");
       goatScript.src = "https://gc.zgo.at/count.js";
       goatScript.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
       goatScript.async = true;
+
+      goatScript.addEventListener("load", () => {
+        // Count initial pageview only once the script is ready
+        window.goatcounter.count({
+          path: location.pathname + location.search + location.hash
+        });
+      });
+
       document.head.appendChild(goatScript);
+    } else {
+      // If goatcounter already exists, just count immediately
+      window.goatcounter.count({
+        path: location.pathname + location.search + location.hash
+      });
     }
 
+    // Also count on SPA nav events
     document.addEventListener("nav", () => {
       if (window.goatcounter?.count) {
         window.goatcounter.count({
@@ -146,6 +161,7 @@ function addGlobalPageResources(
       }
     });
   `);
+
 
 
   if (cfg.enableSPA) {
