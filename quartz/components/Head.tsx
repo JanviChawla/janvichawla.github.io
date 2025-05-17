@@ -54,13 +54,16 @@ export default (() => {
 
               function countPageviewWhenReady() {
                 const slug = document.body?.dataset?.slug;
-                const path = "/" + slug;
-                if (!slug || path === lastPath) return;
+                const path = slug ? "/" + slug : location.pathname;
+                console.log("Tracking path:", path);
+
+                if (path === lastPath) return;
 
                 function tryCount(attempts = 10) {
                   if (typeof window.goatcounter?.count === "function") {
                     lastPath = path;
                     window.goatcounter.count({ path });
+                    console.log("Count sent for:", path);
                   } else if (attempts > 0) {
                     setTimeout(() => tryCount(attempts - 1), 200);
                   } else {
@@ -85,11 +88,7 @@ export default (() => {
             `,
           }}
         />
-        <script
-          async
-          data-goatcounter="https://janvi.goatcounter.com/count"
-          src="//gc.zgo.at/count.js"
-        />
+
 
 
 
