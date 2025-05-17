@@ -1,10 +1,12 @@
 ---
-title: "Consider Me Influenced: Recent Lessons from the Scroll"
+title: Recent Lessons from the Scroll
 date: 2025-05-15
 tags:
   - article
 draft: false
 ---
+Consider me influenced... my algorithm recently has surfaced exactly the nuggets of wisdom I need to hear at this stage of life:
+
 **Embrace happiness as a primary goal.** The instinct to be “good” often takes the shape of overextending, overthinking, or performing effort in visible ways. Lately, I’ve found it more useful to calibrate for calm: making decisions that protect energy, redirecting attention inward, and letting things be unremarkable without demanding explanation. Often, what feels steady carries more wisdom than what looks admirable.
 
 **A day doesn’t need a headline to be important.** Small rituals—getting ready with care, arriving prepared, showing up with intention—create disproportionate effects. Presentation, both internal and external, can quietly shift how the world receives me and how I receive it. There’s power in treating ordinary days with significance, if only to remind myself that presence doesn’t require occasion.
@@ -15,4 +17,4 @@ draft: false
 
 **Scale requires trust, not control.** Holding onto every task out of convenience or perfectionism limits everyone involved. The better question isn’t “Can I do this?” but “Should I be the one doing this?” Delegation isn’t just about reducing workload; it’s an act of belief in others, and a signal that my own time is worth protecting. If something can be done by someone else, that’s a form of progress.
 
-**“Love that for her, want that for me”** reframes desire as celebration and aspiration, not deficiency. Envy and I parted ways years ago, but a go-to mantra for these cases will always be a helpful reminder.
+**“Love that for him/her, want that for me”** reframes desire as celebration and aspiration, not deficiency. Envy and I parted ways years ago, but a go-to mantra for these cases will always be a helpful reminder.

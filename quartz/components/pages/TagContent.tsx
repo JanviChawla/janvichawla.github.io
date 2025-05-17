@@ -43,7 +43,7 @@ function TagContent(props: QuartzComponentProps) {
         <article>
           <p>{content}</p>
         </article>
-        <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
+        <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })} <a href="/thoughts">View all posts</a></p>
         <div>
           {tags.map((tag) => {
             const pages = tagItemMap.get(tag)!

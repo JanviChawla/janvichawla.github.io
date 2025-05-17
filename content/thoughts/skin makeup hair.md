@@ -3,7 +3,7 @@ title: "Curated Essentials: Skin & Hair"
 date: 2025-05-09
 tags:
   - curated
-draft: false
+draft: true
 ---
 Lest anyone think this is an attempt to push unnecessary purchases, let me preface this by saying I've been a minimalist for quite a while. Maybe it stems from a fear of making a bold decision and then regretting it (speaking from many experiences...), or maybe it's just my natural inclination. Regardless, I tend to own very few things, but the items I do have genuinely bring me a disproportionate amount of joy.
 

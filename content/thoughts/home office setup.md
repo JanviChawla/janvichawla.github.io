@@ -5,24 +5,27 @@ tags:
   - curated
 draft: false
 ---
-2025 update:
+Given a remote office well-being subsidy, I set out to build my ideal home office setup. I've compiled my research here and added considerations if you want to build your own. (with help from Griffin Solimini!)
+
+_Note: Items are linked using Amazon Affiliate program._
+
+------
+
+**Current snapshot (2025):**
 ![[wfh2025.jpeg]]
 
 -----------
-I’ve put links to my home office setup and added considerations if you want to build your own. (with help from Griffin Solimini!)
-
-_Note: Items are linked using Amazon Affiliate program._
 ### Design Constraints
 - I have a 48x24 inch [standing desk](https://amzn.to/42Rcfpm) → didn’t want too large monitor as I’m fairly close to it
 - Wanted one monitor and accessories to switch between my personal Macbook and work PC, both of which I wanted closed on my desk for maximum space
 - I assume I won’t be on video calls often as this setup does not include a camera, so I will have to open my work laptop to join those
 - One-cord setup aka I have one wire from the wall to the monitor, and the USB-C cable from the monitor to the laptop which charges it while I use it
-### INSPO PICS
+### Inspiration
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfCKajgxMkqfXH8apeuIoLwAfVp_l4623iHsP_RTJjTTUVI8jLsZVv9ddKdqaJjG9DLIDIUj0ubHJJ185e0T9wLXHDRDUG0jsi2lTEFoIjyaMSa7GfDommIAOjlaqZbPRFCuMEEcGKsH5ciwKnNLgv1N6te?key=-OlUGqnaCAqHdn62YN7Qyg)
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9FRKU7-6hPfmTjmv_gCKKHmMl51VeHPIwlFUS8C2OqJWRdycUrlh545xplZ1xD4yovAMwNYIBorZQ2brzh2E6-ugTp1Oi3gNzHUAwITHvUc6vK31mSBbuyRWvGM3lQTEJLzHGxwOvMV14RU2gGBOM_pYF?key=-OlUGqnaCAqHdn62YN7Qyg)
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5eswY0hA4FWlctnSey6foWwV635CuCvdaJoW2r9jkl0gZOaorzS4TWulyNfc_d-s5wPPRn4CHr6q9CVETWJirjhGbZOhJkmomlz_R6klotmgzsIDTI3-KlBaUuL4sBOGtoKUb0_-lom0Y0DtFp0FxoX3q?key=-OlUGqnaCAqHdn62YN7Qyg)
 
-### FINAL
+### Outcome
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdETf_Diyp_uu53evjxADHlPHegvTFupI6Cu2tGzt0hibybX5aS_KXJaIGC6Bxavnkg9zZMHdbc6jZGuWG_DWiXfhWGTOQeAx53mVTI-4G-FpqTBntBS421BJf_EnhHP8gAV4Wq3oCOOHift3osn3mNEUZ9?key=-OlUGqnaCAqHdn62YN7Qyg)
 ## Hybrid Workplace Subsidy ($500)
 

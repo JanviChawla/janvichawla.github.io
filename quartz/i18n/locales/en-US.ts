@@ -81,7 +81,7 @@ export default {
     },
     guestbook: {
       title: "Guestbook",
-      guestbook: "Thanks for visiting my cyberspace! I'm happy to return the favor if you leave a note with your digital info (a la 2000s shoutboxes)~",
+      guestbook: "Thanks for visiting! Leave a message and I'll return the favor~",
     },
   },
 } as const satisfies Translation

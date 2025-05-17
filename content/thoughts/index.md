@@ -1,4 +1,4 @@
 ---
 title: Thoughts
 ---
-Some grounded. Others in infinite flight. [Tag Index](./tags/)
+In flux--is any thought ever final? [View all tags](./tags/)
