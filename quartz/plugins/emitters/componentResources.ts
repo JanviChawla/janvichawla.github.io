@@ -128,56 +128,6 @@ function addGlobalPageResources(
     `)
   }
 
-componentResources.afterDOMLoaded.push(`
-  window.goatcounter = { no_onload: true };
-
-  const goatScript = document.createElement("script");
-  goatScript.src = "//gc.zgo.at/count.js";
-  goatScript.setAttribute("data-goatcounter", "https://janvi.goatcounter.com/count");
-  goatScript.async = true;
-
-  // Keep track of previous path as referrer
-  let previousPath = document.referrer || "/";
-
-  function trackPageview() {
-    if (typeof window.goatcounter !== "undefined" && typeof window.goatcounter.count === "function") {
-      const currentPath = location.pathname;
-
-      console.log("[GoatCounter] trackPageview called.");
-      console.log("  Path: –", JSON.stringify(currentPath));
-      console.log("  Referrer (tracked): –", JSON.stringify(previousPath));
-      console.log("  Origin: –", JSON.stringify(location.origin));
-
-      window.goatcounter.count({
-        path: currentPath,
-        referrer: previousPath,
-      });
-
-      // Update previousPath for next navigation
-      previousPath = currentPath;
-    } else {
-      console.warn("[GoatCounter] count function not ready, retrying...");
-      setTimeout(trackPageview, 100);
-    }
-  }
-
-  goatScript.onload = () => {
-    // Track initial pageview on load
-    trackPageview();
-
-    // Track SPA navigation via custom "nav" events
-    document.addEventListener("nav", () => {
-      console.log("[GoatCounter] 'nav' event detected.");
-      trackPageview();
-    });
-  };
-
-  document.head.appendChild(goatScript);
-`);
-
-
-
-
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {

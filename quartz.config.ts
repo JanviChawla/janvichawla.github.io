@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "𓆩ꨄ︎𓆪",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: false,
     analytics: null,
     locale: "en-US",
