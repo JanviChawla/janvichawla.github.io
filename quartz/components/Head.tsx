@@ -51,24 +51,35 @@ export default (() => {
               window.goatcounter.no_onload = true;
 
               let lastPath = "";
-              function countPageview() {
+
+              function countPageviewWhenReady() {
                 const slug = document.body?.dataset?.slug;
                 const path = "/" + slug;
-                if (slug && path !== lastPath) {
-                  lastPath = path;
-                  window.goatcounter?.count({ path });
+                if (!slug || path === lastPath) return;
+
+                function tryCount(attempts = 10) {
+                  if (typeof window.goatcounter?.count === "function") {
+                    lastPath = path;
+                    window.goatcounter.count({ path });
+                  } else if (attempts > 0) {
+                    setTimeout(() => tryCount(attempts - 1), 200);
+                  } else {
+                    console.warn("🐐 GoatCounter count() never became available.");
+                  }
                 }
+
+                tryCount();
               }
 
               if (document.readyState === "loading") {
-                document.addEventListener("DOMContentLoaded", countPageview);
+                document.addEventListener("DOMContentLoaded", countPageviewWhenReady);
               } else {
-                countPageview();
+                countPageviewWhenReady();
               }
 
               if (window.addCleanup) {
                 window.addCleanup(() => {
-                  countPageview();
+                  countPageviewWhenReady();
                 });
               }
             `,
@@ -79,6 +90,7 @@ export default (() => {
           data-goatcounter="https://janvi.goatcounter.com/count"
           src="//gc.zgo.at/count.js"
         />
+
 
 
       </head>
