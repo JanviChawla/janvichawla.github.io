@@ -9,5 +9,10 @@ export declare global {
   interface Window {
     spaNavigate(url: URL, isBack: boolean = false)
     addCleanup(fn: (...args: any[]) => void)
+
+    goatcounter?: {
+      no_onload?: boolean;
+      count?: (opts: { path: string }) => void;
+    };
   }
 }

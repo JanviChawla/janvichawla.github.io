@@ -44,6 +44,31 @@ export default (() => {
           .map((res) => JSResourceToScriptElement(res, true))}
         <link href="https://fonts.cdnfonts.com/css/adobe-garamond-pro-2" rel="stylesheet" />
         <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6fe009a3bb024addabe48538d436d6df"}'></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.goatcounter = window.goatcounter || {};
+              window.goatcounter.no_onload = true;
+
+              window.addEventListener('hashchange', function() {
+                window.goatcounter?.count({
+                  path: location.pathname + location.search + location.hash,
+                });
+              });
+
+              // Send initial pageview manually after script loads
+              window.goatcounter?.count({
+                path: location.pathname + location.search + location.hash,
+              });
+            `,
+          }}
+        />
+        <script
+          async
+          data-goatcounter="https://janvi.goatcounter.com/count"
+          src="//gc.zgo.at/count.js"
+        />
+
       </head>
     )
   }
