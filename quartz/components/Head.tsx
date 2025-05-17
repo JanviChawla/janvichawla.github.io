@@ -50,16 +50,27 @@ export default (() => {
               window.goatcounter = window.goatcounter || {};
               window.goatcounter.no_onload = true;
 
-              window.addEventListener('hashchange', function() {
-                window.goatcounter?.count({
-                  path: location.pathname + location.search + location.hash,
-                });
-              });
+              let lastPath = "";
+              function countPageview() {
+                const slug = document.body?.dataset?.slug;
+                const path = "/" + slug;
+                if (slug && path !== lastPath) {
+                  lastPath = path;
+                  window.goatcounter?.count({ path });
+                }
+              }
 
-              // Send initial pageview manually after script loads
-              window.goatcounter?.count({
-                path: location.pathname + location.search + location.hash,
-              });
+              if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", countPageview);
+              } else {
+                countPageview();
+              }
+
+              if (window.addCleanup) {
+                window.addCleanup(() => {
+                  countPageview();
+                });
+              }
             `,
           }}
         />
@@ -68,6 +79,7 @@ export default (() => {
           data-goatcounter="https://janvi.goatcounter.com/count"
           src="//gc.zgo.at/count.js"
         />
+
 
       </head>
     )
