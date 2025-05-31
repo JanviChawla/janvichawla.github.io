@@ -8,7 +8,7 @@ tags:
 - 1 tbsp peanut butter
 - 1 tsp chia seeds
 - 3/4 cup frozen mixed berries, thawed
-- hefty honey drizzle
+- hefty dollop of manuka honey
 - whipped cream
 - 2 trader joe’s milk chocolate peanut butter cups crushed on top
 

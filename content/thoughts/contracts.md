@@ -10,13 +10,13 @@ It's almost eerie how these hypothetical "contracts" seem to play out in the rea
 
 > What cards do you think you were dealt?
 
-We physically arranged ourselves along a spectrum of 1 to 10 in the room, representing our perceived starting points. One student, a clear 10, had grown up with an inheritance, on a country club, seemingly without any external obstacles. At the opposite end, a 1 described a childhood with seven siblings and an addicted mother, resorting to eating lipstick tubes to quell hunger. I placed myself somewhere in the middle, a 5.
+We physically arranged ourselves along a spectrum of 1 to 10 in the room, representing our perceived starting points. One student, a clear 10, had grown up with an inheritance, on a country club, seemingly without any external obstacles. At the opposite end, a 1 described a childhood with seven siblings and an addicted mother, resorting to eating lipstick tubes to satiate her hunger. I placed myself somewhere in the middle, a 5.
 
-The follow-up question was even more insightful:
+The follow-up question was unexpected but even more insightful:
 
 > How do you think you did with the cards you were dealt?
 
-The shift in the room was palpable. The student who started at a 1 had moved to a 10 – now a Rhodes Scholar attending top universities on full scholarships. It was a powerful testament to maximizing opportunity. Conversely, the 10 had perhaps slid down the scale – had he truly made the most of the immense advantages he was given? I personally adjusted my own assessment to a 6 or 7. I felt I'd played my hand reasonably well, though perhaps not to its absolute full potential.
+The shift in the room was palpable. The student who started at a 1 had moved to a 10, now a Rhodes Scholar attending top universities on full scholarships. It was a powerful testament to maximizing opportunity. Conversely, the 10 had perhaps slid down the scale – had he truly made the most of the immense advantages he was given? I personally adjusted my own assessment to a 6 or 7; I felt I'd played my hand reasonably well, though perhaps not to its absolute full potential.
 
 ---
 
@@ -28,4 +28,4 @@ Does the idea of a constant observer bring you a sense of peace? If you knew som
 
 When we have the present moment as a clean slate, an opportunity to act as if the past never happened, why do we insist on lugging around these heavy suitcases? Why bother with the baggage at all? Perhaps it's the unsettling comfort of familiarity – we know the contents, even if we don't particularly like what's inside. So, the question remains: why bother? Why not just leave it behind, discard it entirely?
 
-My psychiatrist once explained that medication doesn't fundamentally change who I am, but rather equips me to become the person I aspire to be. The agency, the choice to architect my own personality, remains mine. Now that I'm on medication, those old excuses feel hollow. If I genuinely desire to be something, I have the capacity to work towards it. We all do, deep down. Once we've systematically dismantled all our justifications, what's left? Facing the music. Shoulders back, a semblance of a smile, and simply proceeding. With nothing truly to lose, why do we so often convince ourselves that there is?
+My psychiatrist once explained that medication doesn't fundamentally change who I am, but rather equips me to become the person I aspire to be. The agency, the choice to architect my own personality, remains mine. Now that I'm on medication, those old excuses feel hollow. If I genuinely desire to be something, I have the capacity to work towards it. We all do, deep down. Once we've systematically dismantled all our justifications, what's left? Facing the music - shoulders back, a semblance of a smile, and simply proceeding. With nothing truly to lose, why do we so often convince ourselves that there is?
