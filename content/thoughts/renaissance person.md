@@ -4,7 +4,9 @@ date: 2024-06-06
 tags:
   - musings
 ---
-![[renaissance person.jpeg]]One of the more striking differences about learning as an adult, as opposed to the relatively forgiving landscape of childhood, is the perceived lack of room for error. There's often this underlying pressure to immediately demonstrate competence, to "show off" our newfound skills, which can unfortunately lead to the potential for criticism arriving a bit too prematurely.
+![[renaissance person.jpeg]]
+
+One of the more striking differences about learning as an adult, as opposed to the relatively forgiving landscape of childhood, is the perceived lack of room for error. There's often this underlying pressure to immediately demonstrate competence, to "show off" our newfound skills, which can unfortunately lead to the potential for criticism arriving a bit too prematurely.
 
 It's funny the mental hurdles we create for ourselves. For years, I genuinely believed solving a Rubik's Cube was some kind of elite intellectual feat. Finally taking the time to learn how to do it myself was surprisingly rewarding. On a larger scale, one of the best decisions I've made as an adult was diving into snowboarding back in 2020. With most of my friends already on the slopes, it became the perfect way to spend time outdoors in that strange pandemic/quarantine world. There's an undeniable beauty in the mountains, and a real sense of accomplishment in navigating your way down. Now, three or four seasons in, my love for it has only deepened.
 

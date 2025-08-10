@@ -3,7 +3,7 @@
 
 body {
     font-size: 17px;
-    letter-spacing: -.2px; 
+    letter-spacing: .2px; 
     margin-bottom: 4em;
 }
 
@@ -36,6 +36,7 @@ img {
     /* Calculates 50% of the element's width, and moves it by that */ 
     /* amount across the X-axis to the left */
     transform: translateX(-50%);
+    max-width: 400px;
 }
 
 ul {
@@ -65,9 +66,13 @@ div#HCB_comment_box a, .hcb-like, .hcb-reply, .hcb-flag {
 div#HCB_comment_box .hcb-comment-body {
     font-family: var(--bodyFont);
     font-size: 17px;
-    letter-spacing: -.2px;
+    // letter-spacing: -.2px;
 }
 
 div#HCB_comment_box .likes::after {
     content: " ദ്ദി´˘`)✧"
+}
+
+ol li {
+    margin-bottom: 1em;
 }
