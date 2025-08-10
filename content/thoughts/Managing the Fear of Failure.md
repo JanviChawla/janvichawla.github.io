@@ -4,7 +4,7 @@ date: 2016-03-01
 tags:
   - article
 ---
-*Note:* Originally published in the [New York Times](https://nytimesineducation.com/spotlight/managing-the-fear-of-failure/) by authors Janvi Chawla, Charles Du, Ciara Jackson, Brooks Mencke, Benedict Morris, Ian Reddy, Andres Schuler under senior advisor Don Yaeger
+*Note:* Originally published in the [New York Times](https://web.archive.org/web/20230921215532/https://nytimesineducation.com/spotlight/managing-the-fear-of-failure/) by authors Janvi Chawla, Charles Du, Ciara Jackson, Brooks Mencke, Benedict Morris, Ian Reddy, Andres Schuler under senior advisor Don Yaeger
 
 -------------
 
