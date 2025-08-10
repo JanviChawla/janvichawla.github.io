@@ -1,5 +1,5 @@
 ---
-title: The Impact of LLMs on Reading, Speaking, and Thinking
+title: On the Impact of LLMs
 date: 2025-08-10
 tags:
   - article
