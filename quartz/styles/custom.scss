@@ -3,8 +3,9 @@
 
 body {
     font-size: 18px;
-    letter-spacing: .2px; 
+    letter-spacing: .1px; 
     margin-bottom: 4em;
+    font-weight: 600;
 }
 
 footer a {
@@ -75,4 +76,8 @@ div#HCB_comment_box .likes::after {
 
 ol li {
     margin-bottom: 1em;
+}
+
+bold, strong {
+    font-weight: 800;
 }

@@ -15,19 +15,19 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Cormorant Garamond", // Cormorant Garamond
-        body: "Ibarra Real Nova", // Crimson Pro, Ibarra Real Nova
+        body: "Cormorant Garamond", // Crimson Pro, Ibarra Real Nova
         code: "Red Hat Mono",
       },
       colors: {
         lightMode: {
           light: "#faf8f8", // faf8f8
           lightgray: "#e5e5e5", // e5e5e5
-          gray: "#b8b8b8", // b8b8b8
+          gray: "#b8b8b8ff", // b8b8b8
           darkgray: "#4e4e4e", //4e4e4e
           dark: "#2b2b2b", // 2b2b2b
-          secondary: "#558", //284b63
-          tertiary: "#99d", //84a59d
-          highlight: "rgba(219, 225, 249, 0.15)", // rgba(143, 159, 169, 0.15) 
+          secondary: "rgba(38, 38, 200, 1)", //284b63
+          tertiary: "rgba(143, 143, 212, 1)", //84a59d
+          highlight: "rgba(189, 201, 245, 0.15)", // rgba(143, 159, 169, 0.15) 
         },
         darkMode: {
           light: "#161619", // 161618
