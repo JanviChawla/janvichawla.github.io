@@ -1,7 +1,7 @@
 ---
 title: Janvi Chawla
 ---
-NYC-based healthcare × machine learning × strategy consultant \
+NYC-based healthcare × AI × strategy consultant \
 & F45er / snowboarder / dancer / gamer / [thinker](/thoughts)
 
 MBA, London Business School \
