@@ -35,7 +35,7 @@ How do we maintain our competitive edge—the ability to think sharply, communic
 
 5. **Journal Regularly.** Write freely and uncensored. Write as if no one will read it. Map connections across different aspects of your professional and personal life. Sit in reflection. Let your thoughts remain your own, without AI input shaping them from the start.
 
-6. **Read Deliberately.** 'm increasingly conscious of what I consume—watching for AI tells, expanding my vocabulary, and diversifying my informational diet across different content types and sources. Don't let AI-generated content become your primary intellectual input. Writers and readers existed long before AI-generated material—producing excellent work that these models trained on to begin with.
+6. **Read Deliberately.** I'm increasingly conscious of what I consume—watching for AI tells, expanding my vocabulary, and diversifying my informational diet across different content types and sources. Don't let AI-generated content become your primary intellectual input. Writers and readers existed long before AI-generated material—producing excellent work that these models trained on to begin with.
 
 This framework applies to any language model—ChatGPT, Gemini, Claude, or emerging alternatives. If you've developed practices for maintaining your edge while leveraging these tools effectively, I'd welcome hearing about them.
 
